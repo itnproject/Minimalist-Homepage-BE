@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "version": "11.3",
+  "description": "__MSG_extDesc__",
+  "default_locale": "zh_CN",
+  "icons": {
+    "16": "image/tubiao.png",
+    "48": "image/tubiao.png",
+    "128": "image/tubiao.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "image/tubiao.png",
+      "48": "image/tubiao.png",
+      "128": "image/tubiao.png"
+    },
+    "default_title": "__MSG_extName__"
+  }
+}
