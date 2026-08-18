@@ -13,7 +13,8 @@
     "newtab": "index.html"
   },
   "permissions": [
-    "storage"
+    "storage",
+    "clipboardRead"
   ],
   "action": {
     "default_icon": {
