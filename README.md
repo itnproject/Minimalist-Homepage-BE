@@ -4,7 +4,7 @@
 
 点击进入官方文档→ [进入](https://mhdocs.wicm.top/ "官方文档")
 
-查看扩展 [进入](https://github.com/itnproject/Minimalist-Homepage-BE/expand.MD "查看扩展")
+查看扩展 [进入](https://github.com/itnproject/Minimalist-Homepage-BE/blob/main/expand.MD "查看扩展")
 
 ## 功能特点
 
