@@ -247,8 +247,9 @@ const input = createInput('输入城市名...', {
         showToast('输入: ' + val);
     }
 });
-
 ```
+
+---
 
 ### **4.9 createCard(config)**
 
@@ -279,6 +280,8 @@ card.appendChild(btn);
 document.body.appendChild(card);
 ```
 
+---
+
 ### **4.10 getSearchEngine()**
 
 获取当前用户选择的搜索引擎。
@@ -289,6 +292,8 @@ document.body.appendChild(card);
 const engine = getSearchEngine();
 showToast('当前引擎: ' + engine);
 ```
+
+---
 
 ### **4.11 isDarkMode()**
 
@@ -304,6 +309,8 @@ if (isDarkMode()) {
 }
 ```
 
+---
+
 ### **4.12 getCurrentBackground()**
 
 获取当前自定义背景图片 URL。
@@ -316,6 +323,8 @@ if (bg) {
     addStyle('.my-overlay { background: rgba(0,0,0,0.5); }');
 }
 ```
+
+---
 
 ### **4.13 getSearchHistory()**
 
