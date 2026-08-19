@@ -16,6 +16,15 @@
     "storage",
     "clipboardRead"
   ],
+  "host_permissions": [
+    "https://v2.jinrishici.com/*"
+  ],
+  "sandbox": {
+    "pages": ["sandbox.html"]
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
   "action": {
     "default_icon": {
       "16": "image/tubiao.png",
