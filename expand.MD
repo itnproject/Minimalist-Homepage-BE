@@ -5,5 +5,5 @@
 
 | 扩展名  | 作者| 介绍 | 下载 |
 | :---------------:| :---------------:| :---------------:| :---------------:|
-|   TEST | itnproject  | 扩展功能测试 | [点击下载](https://raw.githubusercontent.com/itnproject/Minimalist-Homepage-BE/blob/main/Expand/test.zip)  |
+|   TEST | itnproject  | 扩展功能测试 | [点击下载](https://raw.githubusercontent.com/itnproject/Minimalist-Homepage-BE/main/Expand/test.zip)  |
 |   表格单元   | 表格单元   |             |  |
