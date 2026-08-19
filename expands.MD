@@ -247,6 +247,7 @@ const input = createInput('输入城市名...', {
         showToast('输入: ' + val);
     }
 });
+
 ```
 
 ### **4.9 createCard(config)**
