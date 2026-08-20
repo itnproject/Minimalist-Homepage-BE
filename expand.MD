@@ -7,4 +7,4 @@
 | :---------------:| :---------------:| :---------------:| :---------------:| :---------------:|
 |   TEST | itnproject  | 扩展功能测试 |  2026/8/19 | [点击下载](https://raw.githubusercontent.com/itnproject/Minimalist-Homepage-BE/main/Expand/test.zip)  |
 |   en(英语) | itnproject  | 英语翻译 | 2026/8/19 |  [点击下载](https://raw.githubusercontent.com/itnproject/Minimalist-Homepage-BE/main/Expand/en.zip) |
-|   繁體中文翻譯  | Him1584  | 繁體中文翻譯包 | 2026/8/20 |  [点击下载](https://raw.githubusercontent.com/Him1584-dev/Traditional-Chinese-Translation-for-Minimalist-Homepage/main/Traditional Chinese.zip) |
+|   繁體中文翻譯  | Him1584  | 繁體中文翻譯包 | 2026/8/20 |  [点击下载](https://raw.githubusercontent.com/Him1584-dev/Traditional-Chinese-Translation-for-Minimalist-Homepage/main/Traditional-Chinese.zip) |
